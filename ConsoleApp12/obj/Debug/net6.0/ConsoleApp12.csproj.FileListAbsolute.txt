@@ -1,0 +1,15 @@
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.exe
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.deps.json
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.runtimeconfig.json
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.dll
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\bin\Debug\net6.0\ref\ConsoleApp12.dll
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\bin\Debug\net6.0\ConsoleApp12.pdb
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.AssemblyInfo.cs
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.dll
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\obj\Debug\net6.0\ref\ConsoleApp12.dll
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.pdb
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.genruntimeconfig.cache
+C:\Users\weertty\Desktop\c#1\ConsoleApp12\obj\Debug\net6.0\ConsoleApp12.csproj.AssemblyReference.cache
